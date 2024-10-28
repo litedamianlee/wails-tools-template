@@ -24,6 +24,7 @@ var assets embed.FS
 var icon []byte
 
 func main() {
+	constant.InitSystemTitle("{{.ProjectName}}", "{{.ProjectName}}")
 	run()
 }
 

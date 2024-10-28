@@ -1,8 +1,8 @@
 {
-  "name": "xiuxian_help_tool",
+  "name": "{{.ProjectName}}",
   "version": "0.0.0",
   "description": "",
-  "author": "",
+  "author": "{{.AuthorName}}",
   "license": "MIT",
   "type": "module",
   "scripts": {

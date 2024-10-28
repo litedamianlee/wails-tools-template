@@ -7,7 +7,9 @@
 ## Use this template
 
 ```bash
+Base From https://github.com/xijaja/wails-template-vue3
 wails init -n my-wails-app -t https://github.com/xijaja/wails-template-vue3
+
 ```
 
 ## Other templates
